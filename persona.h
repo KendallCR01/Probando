@@ -7,7 +7,7 @@
 
 
 class persona {
-
+private:
     //olaaaaaaaaaaaaaaaaaaa
 };
 
